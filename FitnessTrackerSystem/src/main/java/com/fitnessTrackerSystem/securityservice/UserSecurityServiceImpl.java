@@ -9,6 +9,7 @@ import com.fitnessTrackerSystem.model.Role;
 import com.fitnessTrackerSystem.model.User;
 import com.fitnessTrackerSystem.service.UserService;
 
+@Service
 public class UserSecurityServiceImpl implements UserSecurityService {
 
 	@Autowired
