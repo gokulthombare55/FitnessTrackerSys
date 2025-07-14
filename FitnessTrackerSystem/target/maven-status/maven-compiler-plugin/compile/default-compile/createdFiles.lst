@@ -1,0 +1,12 @@
+com\fitnessTrackerSystem\config\SecurityConfig.class
+com\fitnessTrackerSystem\securityservice\CustomUserDetailsService.class
+com\fitnessTrackerSystem\config\SwaggerConfig.class
+com\fitnessTrackerSystem\controller\ActivitylogController.class
+com\fitnessTrackerSystem\repository\UserRepository.class
+com\fitnessTrackerSystem\FitnessTrackerSystemApplication.class
+com\fitnessTrackerSystem\model\User.class
+com\fitnessTrackerSystem\model\Role.class
+com\fitnessTrackerSystem\model\WorkoutPlan.class
+com\fitnessTrackerSystem\service\ActivitylogService.class
+com\fitnessTrackerSystem\config\PasswordConfig.class
+com\fitnessTrackerSystem\model\ActivityLog.class
