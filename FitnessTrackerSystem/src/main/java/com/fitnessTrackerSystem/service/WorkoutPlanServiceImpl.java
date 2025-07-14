@@ -10,6 +10,7 @@ import com.fitnessTrackerSystem.model.WorkoutPlan;
 import com.fitnessTrackerSystem.repository.UserRepository;
 import com.fitnessTrackerSystem.repository.WorkoutPlanRepository;
 
+@Service
 public class WorkoutPlanServiceImpl  implements WorkoutplanService{
 	
 	@Autowired
