@@ -12,6 +12,7 @@ import com.fitnessTrackerSystem.repository.ActivityLogRespository;
 import com.fitnessTrackerSystem.repository.UserRepository;
 import com.fitnessTrackerSystem.repository.WorkoutPlanRepository;
 
+@Service
 public class ActivitylogServiceImpl implements ActivitylogService {
 	@Autowired
 	private ActivityLogRespository activityLogRepository;
