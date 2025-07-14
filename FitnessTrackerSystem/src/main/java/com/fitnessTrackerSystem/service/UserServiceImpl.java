@@ -8,6 +8,7 @@ import com.fitnessTrackerSystem.exceptionhandler.ResourceNotFoundException;
 import com.fitnessTrackerSystem.model.User;
 import com.fitnessTrackerSystem.repository.UserRepository;
 
+@Service
 public class UserServiceImpl implements UserService {
 	@Autowired
 	private UserRepository userRepository;
